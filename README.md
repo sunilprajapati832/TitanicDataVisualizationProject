@@ -11,7 +11,7 @@ Survival status, Passenger class, Sex, Age, Fare paid, And more...
 🔧 Tools & Libraries Used
 Python (PyCharm IDE)
 
-📊 matplotlib.pyplot – For base-level plotting and customization.
+# matplotlib.pyplot – For base-level plotting and customization.
 
 🐧 seaborn – For high-level, attractive statistical visualizations.
 
