@@ -55,8 +55,5 @@ Applied themes, annotations, and visual polish to make graphs more presentable a
 ├── titanic.csv                   # Dataset file
 ├── README.md                     # Project overview
 └── /images                       # Folder containing exported plots
-📸 Sample Visuals
-(Insert image links or use GitHub's drag & drop to add screenshots of key plots)
-
 
 If you find this useful, feel free to ⭐️ the repo or connect with me on LinkedIn for more data projects! 
