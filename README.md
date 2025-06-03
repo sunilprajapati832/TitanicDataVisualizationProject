@@ -51,9 +51,6 @@ Lineplot – Simulated trend analysis with age
 Applied themes, annotations, and visual polish to make graphs more presentable and insightful.
 
 📂 Project Structure
-bash
-Copy
-Edit
 ├── titanic_visualization.ipynb   # Main project notebook
 ├── titanic.csv                   # Dataset file
 ├── README.md                     # Project overview
