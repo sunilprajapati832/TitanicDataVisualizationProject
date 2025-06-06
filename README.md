@@ -4,7 +4,7 @@ This project explores the Titanic dataset through a wide range of data visualiza
 📁 Dataset
 The Titanic dataset is a classic in the field of data science, containing information on passengers aboard the RMS Titanic, including:
 
-Survival status, Passenger class, Sex, Age, Fare paid
+Survival status, Passenger class, Sex, Age and Fare paid etc.
 
 📌 You can find the dataset on Kaggle Titanic - Machine Learning from Disaster
 
