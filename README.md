@@ -1,4 +1,5 @@
 🚢 Titanic Data Visualization Project
+
 This project explores the Titanic dataset through a wide range of data visualization techniques using Python. It covers univariate, bivariate, multivariate, and advanced visual analysis, providing a detailed view of survival patterns, passenger demographics, and class distributions.
 
 📁 Dataset
