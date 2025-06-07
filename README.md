@@ -3,6 +3,7 @@
 This project explores the Titanic dataset through a wide range of data visualization techniques using Python. It covers univariate, bivariate, multivariate, and advanced visual analysis, providing a detailed view of survival patterns, passenger demographics, and class distributions.
 
 📁 Dataset
+
 The Titanic dataset is a classic in the field of data science, containing information on passengers aboard the RMS Titanic, including:
 
 Survival status, Passenger class, Sex, Age and Fare paid etc.
