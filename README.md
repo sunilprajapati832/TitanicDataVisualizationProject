@@ -57,4 +57,4 @@ Applied themes, annotations, and visual polish to make graphs more presentable a
 ├── titanic_visualization.ipynb   # Main project notebook
 ├── titanic.csv                   # Dataset file
 ├── README.md                     # Project overview
-└── /images                       # Folder containing exported plots
+└── /images (Figures)             # Folder containing exported plots
