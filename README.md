@@ -58,3 +58,8 @@ Applied themes, annotations, and visual polish to make graphs more presentable a
 ├── titanic.csv                   # Dataset file
 ├── README.md                     # Project overview
 └── /images (Figures)             # Folder containing exported plots
+
+## Connect with Me 🤝
+If you found this project interesting, let’s connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sunil-prajapati832) 
