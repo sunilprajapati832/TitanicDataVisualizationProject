@@ -29,7 +29,11 @@ The goal of this project is to perform **Exploratory Data Analysis (EDA)** on th
 📌 You can find the dataset on Kaggle Titanic - Machine Learning from Disaster
 
 ## Tools & Libraries Used
-Python (PyCharm IDE)
+- **PyCharm IDE**
+- **Python 3.x**
+- **Pandas** — Data handling and cleaning  
+- **Seaborn** — Data visualization and advanced plots  
+- **Matplotlib** — Plot customization and styling  
 
 # matplotlib.pyplot – For base-level plotting and customization.
 
