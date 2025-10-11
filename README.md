@@ -244,7 +244,15 @@ dtypes: bool(2), category(2), float64(2), int64(4), object(5)
 memory usage: 80.7+ KB
 None
 
-
+## Graphs
+![Graph Preview](Figure_1A3PassengerCountDistribution.png)
+![Graph Preview](payment_type_distribution.png)
+![Graph Preview](trip_distance_distribution.png)
+![Graph Preview](trip_duration_distribution(2).png)
+![Graph Preview](Figure_1B1FareAmountDistribution.png)
+![Graph Preview](Figure_1B2FareAmountvsTripDistance.png)
+![Graph Preview](trips_by_day_of_week.png)
+![Graph Preview](fare_vs_duration.png)
 
 📂 Project Structure
 ├── titanic_visualization.ipynb   # Main project notebook
