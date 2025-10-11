@@ -34,6 +34,7 @@ The goal of this project is to perform **Exploratory Data Analysis (EDA)** on th
 - **Pandas** — Data handling and cleaning  
 - **Seaborn** — Data visualization and advanced plots  
 - **Matplotlib** — Plot customization and styling  
+---
 
 # matplotlib.pyplot – For base-level plotting and customization.
 
