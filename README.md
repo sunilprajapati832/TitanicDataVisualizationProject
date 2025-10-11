@@ -222,8 +222,8 @@ plt.show()
 
 RangeIndex: 891 entries, 0 to 890
 Data columns (total 15 columns):
- #   Column       Non-Null Count  Dtype   
----  ------       --------------  -----   
+| Column | Non-Null | Count | Dtype |
+|---|----------|--------|-------------------------|--------------|   
  0   survived     891 non-null    int64   
  1   pclass       891 non-null    int64   
  2   sex          891 non-null    object  
