@@ -2,11 +2,11 @@
 
 This project explores the Titanic dataset through a wide range of data visualization techniques using Python.
 It covers:
-1. **Univariate Analysis** — Distribution of individual variables  
-2. **Bivariate Analysis** — Relationships between two variables  
-3. **Multivariate Analysis** — Correlation between multiple variables  
-4. **Advanced Visualizations** — Violin plots, swarm plots and FacetGrids  
-5. **Categorical & Time-Based Analysis** — Class-wise and gender-based insights
+- **Univariate Analysis** — Distribution of individual variables  
+- **Bivariate Analysis** — Relationships between two variables  
+- **Multivariate Analysis** — Correlation between multiple variables  
+- **Advanced Visualizations** — Violin plots, swarm plots and FacetGrids  
+- **Categorical & Time-Based Analysis** — Class-wise and gender-based insights
 
 ## Objective
 The goal of this project is to perform **Exploratory Data Analysis (EDA)** on the Titanic dataset to discover key insights about **passenger survival patterns**, demographic trends and relationships between various features such as age, class, fare and gender.  
