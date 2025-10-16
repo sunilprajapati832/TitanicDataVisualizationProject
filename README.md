@@ -245,7 +245,7 @@ memory usage: 80.7+ KB
 None
 
 ## Graphs
-![Graph Preview](Figure_1A3PassengerCountDistribution.png)
+![Graph Preview](Figure_1 Age Distribution Across Passenger Classes (Bivariate Analysis).png)
 ![Graph Preview](payment_type_distribution.png)
 ![Graph Preview](trip_distance_distribution.png)
 ![Graph Preview](trip_duration_distribution(2).png)
