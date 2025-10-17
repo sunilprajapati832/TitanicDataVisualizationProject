@@ -246,7 +246,7 @@ None
 
 ## Graphs
 ![Graph Preview](AgeDistributionAcrossPassengerClasses(BivariateAnalysis).png)
-![Graph Preview](payment_type_distribution.png)
+![Graph Preview](AgeDistributionbyClassandSurvivalSwarmplot(AdvancedVisualization).png)
 ![Graph Preview](trip_distance_distribution.png)
 ![Graph Preview](trip_duration_distribution(2).png)
 ![Graph Preview](Figure_1B1FareAmountDistribution.png)
