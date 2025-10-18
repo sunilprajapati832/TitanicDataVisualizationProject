@@ -249,7 +249,7 @@ None
 ![Graph Preview](AgeDistributionbyClassandSurvivalSwarmplot(AdvancedVisualization).png)
 ![Graph Preview](AgeDistributionbySurvivalStatusandGender(AdvancedVisualization).png)
 ![Graph Preview](AgeDistributionofTitanicPassengersAgevsFrequency.png)
-![Graph Preview](Figure_1B1FareAmountDistribution.png)
+![Graph Preview](CorrelationMatrix(MultivariateAnalysis).png)
 ![Graph Preview](Figure_1B2FareAmountvsTripDistance.png)
 ![Graph Preview](trips_by_day_of_week.png)
 ![Graph Preview](fare_vs_duration.png)
