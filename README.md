@@ -6,7 +6,10 @@ It covers:
   * Histogram – Age distribution
   * Countplot – Passenger class
   * Pie Chart – Survival rate
-- **Bivariate Analysis** — Relationships between two variables  
+- **Bivariate Analysis** — Relationships between two variables
+  * Boxplot – Age distribution across classes
+  * Barplot – Survival rate by class
+  * Scatterplot – Fare vs. Age  
 - **Multivariate Analysis** — Correlation between multiple variables  
 - **Advanced Visualizations** — Violin plots, swarm plots and FacetGrids  
 - **Categorical & Time-Based Analysis** — Class-wise and gender-based insights
