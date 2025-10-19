@@ -2,7 +2,9 @@
 
 This project explores the Titanic dataset through a wide range of data visualization techniques using Python.
 It covers:
-- **Univariate Analysis** — Distribution of individual variables (Histogram – Age distribution, Countplot – Passenger class, Pie Chart – Survival rate) 
+- **Univariate Analysis** — Distribution of individual variables
+-- (Histogram – Age distribution, Countplot – Passenger class, Pie Chart – Survival rate)
+--
 - **Bivariate Analysis** — Relationships between two variables  
 - **Multivariate Analysis** — Correlation between multiple variables  
 - **Advanced Visualizations** — Violin plots, swarm plots and FacetGrids  
