@@ -10,7 +10,10 @@ It covers:
   * Boxplot – Age distribution across classes
   * Barplot – Survival rate by class
   * Scatterplot – Fare vs. Age  
-- **Multivariate Analysis** — Correlation between multiple variables  
+- **Multivariate Analysis** — Correlation between multiple variables
+  * Heatmap – Correlation matrix (after handling missing values)
+  * Pairplots – Multiple variable relationships
+  
 - **Advanced Visualizations** — Violin plots, swarm plots and FacetGrids  
 - **Categorical & Time-Based Analysis** — Class-wise and gender-based insights
 
