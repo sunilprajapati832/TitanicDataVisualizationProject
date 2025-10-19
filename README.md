@@ -13,8 +13,10 @@ It covers:
 - **Multivariate Analysis** — Correlation between multiple variables
   * Heatmap – Correlation matrix (after handling missing values)
   * Pairplots – Multiple variable relationships
-  
-- **Advanced Visualizations** — Violin plots, swarm plots and FacetGrids  
+- **Advanced Visualizations** — Violin plots, swarm plots and FacetGrids
+  * Violin Plot – Age distribution by survival status
+  * Swarmplot – Survival based on class and gender
+  * FacetGrid – Age and class breakdown with survival overlay  
 - **Categorical & Time-Based Analysis** — Class-wise and gender-based insights
 
 ## Objective
