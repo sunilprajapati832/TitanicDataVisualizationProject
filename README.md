@@ -18,6 +18,8 @@ It covers:
   * Swarmplot – Survival based on class and gender
   * FacetGrid – Age and class breakdown with survival overlay  
 - **Categorical & Time-Based Analysis** — Class-wise and gender-based insights
+  * Countplot – Gender vs survival
+  * Lineplot – Simulated trend analysis with age
 
 ## Objective
 The goal of this project is to perform **Exploratory Data Analysis (EDA)** on the Titanic dataset to discover key insights about **passenger survival patterns**, demographic trends and relationships between various features such as age, class, fare and gender.  
