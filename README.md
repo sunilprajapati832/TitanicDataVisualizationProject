@@ -20,6 +20,8 @@ It covers:
 - **Categorical & Time-Based Analysis** — Class-wise and gender-based insights
   * Countplot – Gender vs survival
   * Lineplot – Simulated trend analysis with age
+- **Customization & Styling** — Applied themes, annotations and visual polish to make graphs more presentable and insightful.
+
 
 ## Objective
 The goal of this project is to perform **Exploratory Data Analysis (EDA)** on the Titanic dataset to discover key insights about **passenger survival patterns**, demographic trends and relationships between various features such as age, class, fare and gender.  
