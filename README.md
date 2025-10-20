@@ -50,42 +50,6 @@ The goal of this project is to perform **Exploratory Data Analysis (EDA)** on th
 - **Seaborn** — Data visualization and advanced plots (For high-level, attractive statistical visualizations)
 - **Matplotlib** — Plot customization and styling (For base-level plotting and customization) 
 
-# Visualizations Performed
-
-1️⃣ Univariate Analysis
-Histogram – Age distribution
-
-Countplot – Passenger class
-
-Pie Chart – Survival rate
-
-2️⃣ Bivariate Analysis
-Boxplot – Age distribution across classes
-
-Barplot – Survival rate by class
-
-Scatterplot – Fare vs. Age
-
-3️⃣ Multivariate Analysis
-Heatmap – Correlation matrix (after handling missing values)
-
-Pairplots – Multiple variable relationships
-
-4️⃣ Advanced Visualizations
-Violin Plot – Age distribution by survival status
-
-Swarmplot – Survival based on class and gender
-
-FacetGrid – Age and class breakdown with survival overlay
-
-5️⃣ Categorical & Time-Based Insights
-Countplot – Gender vs survival
-
-Lineplot – Simulated trend analysis with age
-
-6️⃣ Customization & Styling
-Applied themes, annotations, and visual polish to make graphs more presentable and insightful.
-
 ## dataVisualization1.py
 
 ```Python
