@@ -231,7 +231,7 @@ None
 ![Graph Preview](CorrelationMatrix(MultivariateAnalysis).png)
 ![Graph Preview](CustomizingVisualsforBetterPresentation(addannotationandthemesforpolishedvisuals).png)
 ![Graph Preview](FaceGrid.png)
-![Graph Preview](fare_vs_duration.png)
+![Graph Preview](FareVsTrendsbyclasslineplot(Categorical&TimeBasedAnalysis).png)
 
 📂 Project Structure
 ├── titanic_visualization.ipynb   # Main project notebook
