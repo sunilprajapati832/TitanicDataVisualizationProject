@@ -231,7 +231,18 @@ None
 ![Graph Preview](CorrelationMatrix(MultivariateAnalysis).png)
 ![Graph Preview](CustomizingVisualsforBetterPresentation(addannotationandthemesforpolishedvisuals).png)
 ![Graph Preview](FaceGrid.png)
-![Graph Preview](FareVsTrendsbyclasslineplot(Categorical&TimeBasedAnalysis).png)
+![Graph Preview](Pairplot_of_Titanic_Dataset_(Multivariate_Analysis).png)
+![Graph Preview]( )
+![Graph Preview]( )
+![Graph Preview]( )
+![Graph Preview]( )
+![Graph Preview]( )
+![Graph Preview]( )
+![Graph Preview]( )
+
+
+
+
 
 📂 Project Structure
 ├── titanic_visualization.ipynb   # Main project notebook
