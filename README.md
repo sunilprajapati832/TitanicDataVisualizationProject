@@ -235,7 +235,7 @@ None
 ![Graph Preview](Passenger_Class_Distribution.png)
 ![Graph Preview](Survival_Rate_by_Passenger_Class.png)
 ![Graph Preview](Scatterplot_Fare_vs_Age.png)
-![Graph Preview]( )
+![Graph Preview](Survival_Rate.png)
 ![Graph Preview]( )
 ![Graph Preview]( )
 ![Graph Preview]( )
