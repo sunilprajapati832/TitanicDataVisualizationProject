@@ -234,7 +234,7 @@ None
 ![Graph Preview](Pairplot_of_Titanic_Dataset_(Multivariate_Analysis).png)
 ![Graph Preview](Passenger_Class_Distribution.png)
 ![Graph Preview](Survival_Rate_by_Passenger_Class.png)
-![Graph Preview]( )
+![Graph Preview](Scatterplot_Fare_vs_Age.png)
 ![Graph Preview]( )
 ![Graph Preview]( )
 ![Graph Preview]( )
