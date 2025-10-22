@@ -233,7 +233,7 @@ None
 ![Graph Preview](FaceGrid.png)
 ![Graph Preview](Pairplot_of_Titanic_Dataset_(Multivariate_Analysis).png)
 ![Graph Preview](Passenger_Class_Distribution.png)
-![Graph Preview]( )
+![Graph Preview](Survival_Rate_by_Passenger_Class.png)
 ![Graph Preview]( )
 ![Graph Preview]( )
 ![Graph Preview]( )
