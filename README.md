@@ -42,27 +42,6 @@ It covers:
   * Lineplot – Simulated trend analysis with age
 - **Customization & Styling** — Applied themes, annotations and visual polish to make graphs more presentable and insightful.
 
-
-## Objective
-The goal of this project is to perform **Exploratory Data Analysis (EDA)** on the Titanic dataset to discover key insights about **passenger survival patterns**, demographic trends and relationships between various features such as age, class, fare and gender.  
-
-## Dataset
-
-| Feature | Description |
-|----------|-------------|
-| `survived` | Survival (0 = No, 1 = Yes) |
-| `pclass` | Passenger class (1 = Upper, 2 = Middle, 3 = Lower) |
-| `sex` | Gender |
-| `age` | Age of passenger |
-| `sibsp` | Number of siblings/spouses aboard |
-| `parch` | Number of parents/children aboard |
-| `fare` | Passenger fare |
-| `embarked` | Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton) |
-| `class` | Passenger class (categorical) |
-| `who`, `adult_male`, `deck`, `embark_town`, `alive`, `alone` | Additional derived columns |
-
-📌 You can find the dataset on Kaggle Titanic - Machine Learning from Disaster
-
 ## Tools & Libraries Used
 - **PyCharm IDE**
 - **Python 3.x**
