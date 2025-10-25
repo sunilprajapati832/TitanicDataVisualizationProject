@@ -241,7 +241,7 @@ None
 ├── titanic_visualization.ipynb   # Main project notebook
 ├── titanic.csv                   # Dataset file
 ├── README.md                     # Project overview
-└── /images (Figures)             # Folder containing exported plots
+└── /images (Figures)             # exported plots
 
 ## Connect with Me 🤝
 If you found this project interesting, let’s connect!  
