@@ -22,6 +22,7 @@ The goal of this project is to perform **Exploratory Data Analysis (EDA)** on th
 
 This project explores the Titanic dataset through a wide range of data visualization techniques using Python.
 It covers:
+
 - **Univariate Analysis** — Distribution of individual variables
   * Histogram – Age distribution
   * Countplot – Passenger class
@@ -43,6 +44,7 @@ It covers:
 - **Customization & Styling** — Applied themes, annotations and visual polish to make graphs more presentable and insightful.
 
 ## Tools & Libraries Used
+
 - **PyCharm IDE**
 - **Python 3.x**
 - **Pandas** — Data handling and cleaning  
